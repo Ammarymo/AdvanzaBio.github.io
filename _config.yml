@@ -1,0 +1,14 @@
+title: AdvanzaBio
+description: Your Partner in Advanced Scientific Solutions
+theme: minima
+navigation:
+  - title: Home
+    url: /
+  - title: Services
+    url: /services
+  - title: Courses
+    url: /courses
+  - title: Why Choose Us
+    url: /why-choose-us
+  - title: Contact
+    url: /contact
